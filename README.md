@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rezer900
-- 👀 I’m interested in ... fixing steam client bug/s
+- 👀 I’m interested in ... fixing steam client bug/s for linux
 - 🌱 I’m currently learning ...python
 - 📫 How to reach me ...theog779@gmail.com
 
