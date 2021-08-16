@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rezer900
-- 👀 I’m interested in ... fixing steam client bug/s for linux among other things like creating and testing code to make sure it runs well
+- 👀 I’m interested in ... fixing steam client bug/s for linux. I found a bug on the birthdate input of the steam client
 - 🌱 I’m currently learning ...python
 - 📫 How to reach me ...theog779@gmail.com
 
